@@ -18,6 +18,5 @@ You will also see any lint errors in the console.
 
 - Click on buttons to use calculator
 - Click on Display if you want to use keyboard to input numbers
-# sturdy-fortnight
-# verbose-train
+
 # verbose-train
