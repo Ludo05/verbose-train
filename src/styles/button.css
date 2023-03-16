@@ -1,0 +1,35 @@
+button {
+  font-weight: bold;
+  font-size: 20px;
+  outline: none;
+  border: none;
+  color: white;
+  background-color: rgba(57, 59, 61, 0.35);
+  cursor: pointer;
+  border-radius: 1px;
+}
+
+button:active {
+  background-color: rgba(194, 194, 194,0.8);
+}
+
+.orange {
+  background-color: rgba(240, 155, 10, 1);
+}
+
+.orange:active {
+  background-color: rgba(194, 194, 194,0.8);
+}
+
+.top-row {
+  background-color: rgba(57, 59, 61, 0.75);
+}
+
+.top-row:active {
+  background-color: rgba(57, 59, 61,0.2);
+}
+
+
+.equals {
+  grid-column: 1 / 3;
+}
